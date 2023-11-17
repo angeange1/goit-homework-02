@@ -53,7 +53,11 @@ ol {
   letter-spacing: 0.32px;
 }
 
-.contacts-item:hover .contacts-item:focus {
+.contacts-item:hover {
+  color: #404bbf;
+}
+
+.contacts-item:focus {
   color: #404bbf;
 }
 
