@@ -89,7 +89,11 @@ ol {
   font-family: inherit;
 }
 
-.order-button:hover .order-button:focus {
+.order-button:hover {
+  background-color: #404bbf;
+}
+
+.order-button:focus {
   background-color: #404bbf;
 }
 
