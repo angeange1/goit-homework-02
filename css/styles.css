@@ -37,7 +37,11 @@ ol {
   letter-spacing: 0.32px;
 }
 
-.navigation-item:hover .navigation-item:focus {
+.navigation-item:hover {
+  color: #404bbf;
+}
+
+.navigation-item:focus {
   color: #404bbf;
 }
 
